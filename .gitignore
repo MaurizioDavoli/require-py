@@ -1,0 +1,12 @@
+/.eslintrc.json
+/.vscode
+/.vscode-test.mjs
+/.vscodeignore
+/CHANGELOG.md
+/node_modules
+/out
+/package-lock.json
+/package.json
+/src
+/tsconfig.json
+/vsc-extension-quickstart.md
